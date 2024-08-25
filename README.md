@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Isaac
+- 👀 I’m interested in software development and maintenance
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on various frontend projects e.g. Websites
+- 📫 Send an email to isaac.munene@strathmore.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My glasses are reeeaaalllyyy powerful!!
